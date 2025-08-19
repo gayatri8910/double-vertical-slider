@@ -1,1 +1,1 @@
-# double-vertical-slider
+The Double Vertical Slider is a creative web component that displays two synchronized sliding panels — one for images and one for text — moving in opposite directions. Built with HTML, CSS, and JavaScript, this project creates an engaging split-screen effect often used for landing pages, portfolios, or product showcases. It is lightweight, responsive, and easy to customize, making it a great project to practice front-end skills like CSS transitions, flexbox layouts, and JavaScript-based animations.# double-vertical-slider
